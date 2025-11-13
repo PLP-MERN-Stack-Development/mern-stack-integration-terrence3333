@@ -1,0 +1,24 @@
+# 📰 MERN Blog Application
+
+A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** blog application that allows users to create, edit, delete, and view blog posts with categories, authentication, and image uploads.
+
+---
+
+## 🚀 Project Overview
+
+This project demonstrates seamless integration between the **front-end** (React + Vite) and **back-end** (Express + MongoDB), with user authentication, RESTful APIs, and image management.
+
+### ✨ Key Features
+- Full **CRUD** operations for blog posts  
+- **User Authentication** (Register/Login using JWT)  
+- **Categories** management  
+- **Image uploads** via Cloudinary or local storage  
+- **Comments** on posts  
+- Responsive UI built with **React + Tailwind CSS**  
+- Pagination, search, and filtering  
+- API error handling and validation  
+
+---
+
+## 🧩 Project Structure
+
